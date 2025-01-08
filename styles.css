@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+td{
+	text-align: center;
+}
+th{
+	text-align: center
+}
